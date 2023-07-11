@@ -4,11 +4,11 @@ this is one-page highly dynamic user
 
 # Project Title
 
-The Bankist Project.
+Guess the Number Game 
 
 ## Project Description
 
-provide better user-experience through the javascript programming language.
+The Real World Guessing the Number Games made by HTML, CSS and JS
 
 ## Table of Contents
 
