@@ -1,6 +1,3 @@
-The Bankist Project
-
-this is one-page highly dynamic user
 
 # Project Title
 
